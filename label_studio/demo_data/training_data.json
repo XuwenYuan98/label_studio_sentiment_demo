@@ -1,0 +1,802 @@
+[
+  {
+    "text": "体验非常不好",
+    "label": "Negative"
+  },
+  {
+    "text": "我很喜欢这个功能",
+    "label": "Positive"
+  },
+  {
+    "text": "界面很难看",
+    "label": "Negative"
+  },
+  {
+    "text": "这个产品很好",
+    "label": "Positive"
+  },
+  {
+    "text": "真的很失望",
+    "label": "Negative"
+  },
+  {
+    "text": "使用起来很顺手",
+    "label": "Positive"
+  },
+  {
+    "text": "质量很差",
+    "label": "Negative"
+  },
+  {
+    "text": "界面很漂亮",
+    "label": "Positive"
+  },
+  {
+    "text": "客服很专业",
+    "label": "Positive"
+  },
+  {
+    "text": "质量很差",
+    "label": "Negative"
+  },
+  {
+    "text": "客服很敷衍",
+    "label": "Negative"
+  },
+  {
+    "text": "这个产品很好",
+    "label": "Positive"
+  },
+  {
+    "text": "服务太差了",
+    "label": "Negative"
+  },
+  {
+    "text": "这个产品很糟糕",
+    "label": "Negative"
+  },
+  {
+    "text": "我很喜欢这个功能",
+    "label": "Positive"
+  },
+  {
+    "text": "体验非常不错",
+    "label": "Positive"
+  },
+  {
+    "text": "速度太慢",
+    "label": "Negative"
+  },
+  {
+    "text": "质量很差",
+    "label": "Negative"
+  },
+  {
+    "text": "我很讨厌这个功能",
+    "label": "Negative"
+  },
+  {
+    "text": "客服很敷衍",
+    "label": "Negative"
+  },
+  {
+    "text": "速度太慢",
+    "label": "Negative"
+  },
+  {
+    "text": "质量很差",
+    "label": "Negative"
+  },
+  {
+    "text": "真的很满意",
+    "label": "Positive"
+  },
+  {
+    "text": "我很讨厌这个功能",
+    "label": "Negative"
+  },
+  {
+    "text": "这个产品很好",
+    "label": "Positive"
+  },
+  {
+    "text": "速度很快",
+    "label": "Positive"
+  },
+  {
+    "text": "服务非常棒",
+    "label": "Positive"
+  },
+  {
+    "text": "使用起来很麻烦",
+    "label": "Negative"
+  },
+  {
+    "text": "服务非常棒",
+    "label": "Positive"
+  },
+  {
+    "text": "客服很敷衍",
+    "label": "Negative"
+  },
+  {
+    "text": "我很喜欢这个功能",
+    "label": "Positive"
+  },
+  {
+    "text": "使用起来很顺手",
+    "label": "Positive"
+  },
+  {
+    "text": "真的很失望",
+    "label": "Negative"
+  },
+  {
+    "text": "真的很失望",
+    "label": "Negative"
+  },
+  {
+    "text": "这个产品很好",
+    "label": "Positive"
+  },
+  {
+    "text": "速度很快",
+    "label": "Positive"
+  },
+  {
+    "text": "我很讨厌这个功能",
+    "label": "Negative"
+  },
+  {
+    "text": "服务非常棒",
+    "label": "Positive"
+  },
+  {
+    "text": "质量很好",
+    "label": "Positive"
+  },
+  {
+    "text": "这个产品很好",
+    "label": "Positive"
+  },
+  {
+    "text": "速度太慢",
+    "label": "Negative"
+  },
+  {
+    "text": "速度很快",
+    "label": "Positive"
+  },
+  {
+    "text": "界面很难看",
+    "label": "Negative"
+  },
+  {
+    "text": "速度很快",
+    "label": "Positive"
+  },
+  {
+    "text": "体验非常不好",
+    "label": "Negative"
+  },
+  {
+    "text": "服务非常棒",
+    "label": "Positive"
+  },
+  {
+    "text": "质量很差",
+    "label": "Negative"
+  },
+  {
+    "text": "真的很失望",
+    "label": "Negative"
+  },
+  {
+    "text": "真的很满意",
+    "label": "Positive"
+  },
+  {
+    "text": "服务非常棒",
+    "label": "Positive"
+  },
+  {
+    "text": "使用起来很麻烦",
+    "label": "Negative"
+  },
+  {
+    "text": "服务非常棒",
+    "label": "Positive"
+  },
+  {
+    "text": "我很喜欢这个功能",
+    "label": "Positive"
+  },
+  {
+    "text": "使用起来很顺手",
+    "label": "Positive"
+  },
+  {
+    "text": "客服很专业",
+    "label": "Positive"
+  },
+  {
+    "text": "质量很好",
+    "label": "Positive"
+  },
+  {
+    "text": "使用起来很麻烦",
+    "label": "Negative"
+  },
+  {
+    "text": "我很讨厌这个功能",
+    "label": "Negative"
+  },
+  {
+    "text": "体验非常不错",
+    "label": "Positive"
+  },
+  {
+    "text": "这个产品很糟糕",
+    "label": "Negative"
+  },
+  {
+    "text": "使用起来很顺手",
+    "label": "Positive"
+  },
+  {
+    "text": "质量很差",
+    "label": "Negative"
+  },
+  {
+    "text": "这个产品很好",
+    "label": "Positive"
+  },
+  {
+    "text": "使用起来很顺手",
+    "label": "Positive"
+  },
+  {
+    "text": "速度太慢",
+    "label": "Negative"
+  },
+  {
+    "text": "真的很满意",
+    "label": "Positive"
+  },
+  {
+    "text": "速度太慢",
+    "label": "Negative"
+  },
+  {
+    "text": "真的很失望",
+    "label": "Negative"
+  },
+  {
+    "text": "质量很差",
+    "label": "Negative"
+  },
+  {
+    "text": "我很喜欢这个功能",
+    "label": "Positive"
+  },
+  {
+    "text": "质量很好",
+    "label": "Positive"
+  },
+  {
+    "text": "这个产品很糟糕",
+    "label": "Negative"
+  },
+  {
+    "text": "质量很好",
+    "label": "Positive"
+  },
+  {
+    "text": "我很喜欢这个功能",
+    "label": "Positive"
+  },
+  {
+    "text": "服务太差了",
+    "label": "Negative"
+  },
+  {
+    "text": "这个产品很糟糕",
+    "label": "Negative"
+  },
+  {
+    "text": "服务非常棒",
+    "label": "Positive"
+  },
+  {
+    "text": "质量很好",
+    "label": "Positive"
+  },
+  {
+    "text": "我很讨厌这个功能",
+    "label": "Negative"
+  },
+  {
+    "text": "客服很专业",
+    "label": "Positive"
+  },
+  {
+    "text": "速度很快",
+    "label": "Positive"
+  },
+  {
+    "text": "界面很漂亮",
+    "label": "Positive"
+  },
+  {
+    "text": "我很喜欢这个功能",
+    "label": "Positive"
+  },
+  {
+    "text": "真的很失望",
+    "label": "Negative"
+  },
+  {
+    "text": "体验非常不好",
+    "label": "Negative"
+  },
+  {
+    "text": "质量很差",
+    "label": "Negative"
+  },
+  {
+    "text": "这个产品很好",
+    "label": "Positive"
+  },
+  {
+    "text": "客服很专业",
+    "label": "Positive"
+  },
+  {
+    "text": "客服很敷衍",
+    "label": "Negative"
+  },
+  {
+    "text": "体验非常不好",
+    "label": "Negative"
+  },
+  {
+    "text": "质量很好",
+    "label": "Positive"
+  },
+  {
+    "text": "这个产品很好",
+    "label": "Positive"
+  },
+  {
+    "text": "真的很满意",
+    "label": "Positive"
+  },
+  {
+    "text": "真的很满意",
+    "label": "Positive"
+  },
+  {
+    "text": "使用起来很顺手",
+    "label": "Positive"
+  },
+  {
+    "text": "客服很敷衍",
+    "label": "Negative"
+  },
+  {
+    "text": "我很讨厌这个功能",
+    "label": "Negative"
+  },
+  {
+    "text": "质量很好",
+    "label": "Positive"
+  },
+  {
+    "text": "速度很快",
+    "label": "Positive"
+  },
+  {
+    "text": "客服很敷衍",
+    "label": "Negative"
+  },
+  {
+    "text": "使用起来很麻烦",
+    "label": "Negative"
+  },
+  {
+    "text": "使用起来很顺手",
+    "label": "Positive"
+  },
+  {
+    "text": "真的很满意",
+    "label": "Positive"
+  },
+  {
+    "text": "质量很差",
+    "label": "Negative"
+  },
+  {
+    "text": "我很喜欢这个功能",
+    "label": "Positive"
+  },
+  {
+    "text": "速度很快",
+    "label": "Positive"
+  },
+  {
+    "text": "这个产品很好",
+    "label": "Positive"
+  },
+  {
+    "text": "服务非常棒",
+    "label": "Positive"
+  },
+  {
+    "text": "客服很专业",
+    "label": "Positive"
+  },
+  {
+    "text": "这个产品很糟糕",
+    "label": "Negative"
+  },
+  {
+    "text": "速度很快",
+    "label": "Positive"
+  },
+  {
+    "text": "使用起来很顺手",
+    "label": "Positive"
+  },
+  {
+    "text": "这个产品很糟糕",
+    "label": "Negative"
+  },
+  {
+    "text": "服务太差了",
+    "label": "Negative"
+  },
+  {
+    "text": "我很喜欢这个功能",
+    "label": "Positive"
+  },
+  {
+    "text": "使用起来很顺手",
+    "label": "Positive"
+  },
+  {
+    "text": "体验非常不错",
+    "label": "Positive"
+  },
+  {
+    "text": "使用起来很麻烦",
+    "label": "Negative"
+  },
+  {
+    "text": "质量很差",
+    "label": "Negative"
+  },
+  {
+    "text": "我很喜欢这个功能",
+    "label": "Positive"
+  },
+  {
+    "text": "我很讨厌这个功能",
+    "label": "Negative"
+  },
+  {
+    "text": "我很喜欢这个功能",
+    "label": "Positive"
+  },
+  {
+    "text": "界面很漂亮",
+    "label": "Positive"
+  },
+  {
+    "text": "服务太差了",
+    "label": "Negative"
+  },
+  {
+    "text": "客服很专业",
+    "label": "Positive"
+  },
+  {
+    "text": "客服很敷衍",
+    "label": "Negative"
+  },
+  {
+    "text": "客服很敷衍",
+    "label": "Negative"
+  },
+  {
+    "text": "体验非常不错",
+    "label": "Positive"
+  },
+  {
+    "text": "客服很专业",
+    "label": "Positive"
+  },
+  {
+    "text": "我很讨厌这个功能",
+    "label": "Negative"
+  },
+  {
+    "text": "体验非常不错",
+    "label": "Positive"
+  },
+  {
+    "text": "真的很失望",
+    "label": "Negative"
+  },
+  {
+    "text": "这个产品很糟糕",
+    "label": "Negative"
+  },
+  {
+    "text": "服务太差了",
+    "label": "Negative"
+  },
+  {
+    "text": "体验非常不错",
+    "label": "Positive"
+  },
+  {
+    "text": "体验非常不好",
+    "label": "Negative"
+  },
+  {
+    "text": "我很喜欢这个功能",
+    "label": "Positive"
+  },
+  {
+    "text": "速度太慢",
+    "label": "Negative"
+  },
+  {
+    "text": "使用起来很麻烦",
+    "label": "Negative"
+  },
+  {
+    "text": "使用起来很顺手",
+    "label": "Positive"
+  },
+  {
+    "text": "服务非常棒",
+    "label": "Positive"
+  },
+  {
+    "text": "客服很专业",
+    "label": "Positive"
+  },
+  {
+    "text": "使用起来很顺手",
+    "label": "Positive"
+  },
+  {
+    "text": "使用起来很麻烦",
+    "label": "Negative"
+  },
+  {
+    "text": "速度太慢",
+    "label": "Negative"
+  },
+  {
+    "text": "真的很失望",
+    "label": "Negative"
+  },
+  {
+    "text": "质量很差",
+    "label": "Negative"
+  },
+  {
+    "text": "使用起来很顺手",
+    "label": "Positive"
+  },
+  {
+    "text": "质量很好",
+    "label": "Positive"
+  },
+  {
+    "text": "服务非常棒",
+    "label": "Positive"
+  },
+  {
+    "text": "界面很漂亮",
+    "label": "Positive"
+  },
+  {
+    "text": "速度很快",
+    "label": "Positive"
+  },
+  {
+    "text": "这个产品很糟糕",
+    "label": "Negative"
+  },
+  {
+    "text": "我很讨厌这个功能",
+    "label": "Negative"
+  },
+  {
+    "text": "界面很漂亮",
+    "label": "Positive"
+  },
+  {
+    "text": "真的很失望",
+    "label": "Negative"
+  },
+  {
+    "text": "质量很差",
+    "label": "Negative"
+  },
+  {
+    "text": "体验非常不好",
+    "label": "Negative"
+  },
+  {
+    "text": "服务太差了",
+    "label": "Negative"
+  },
+  {
+    "text": "真的很满意",
+    "label": "Positive"
+  },
+  {
+    "text": "我很讨厌这个功能",
+    "label": "Negative"
+  },
+  {
+    "text": "体验非常不错",
+    "label": "Positive"
+  },
+  {
+    "text": "界面很难看",
+    "label": "Negative"
+  },
+  {
+    "text": "服务太差了",
+    "label": "Negative"
+  },
+  {
+    "text": "速度太慢",
+    "label": "Negative"
+  },
+  {
+    "text": "这个产品很糟糕",
+    "label": "Negative"
+  },
+  {
+    "text": "使用起来很顺手",
+    "label": "Positive"
+  },
+  {
+    "text": "质量很好",
+    "label": "Positive"
+  },
+  {
+    "text": "真的很失望",
+    "label": "Negative"
+  },
+  {
+    "text": "客服很敷衍",
+    "label": "Negative"
+  },
+  {
+    "text": "真的很满意",
+    "label": "Positive"
+  },
+  {
+    "text": "我很喜欢这个功能",
+    "label": "Positive"
+  },
+  {
+    "text": "客服很专业",
+    "label": "Positive"
+  },
+  {
+    "text": "服务非常棒",
+    "label": "Positive"
+  },
+  {
+    "text": "客服很敷衍",
+    "label": "Negative"
+  },
+  {
+    "text": "速度太慢",
+    "label": "Negative"
+  },
+  {
+    "text": "界面很难看",
+    "label": "Negative"
+  },
+  {
+    "text": "使用起来很顺手",
+    "label": "Positive"
+  },
+  {
+    "text": "这个产品很糟糕",
+    "label": "Negative"
+  },
+  {
+    "text": "服务太差了",
+    "label": "Negative"
+  },
+  {
+    "text": "我很喜欢这个功能",
+    "label": "Positive"
+  },
+  {
+    "text": "服务太差了",
+    "label": "Negative"
+  },
+  {
+    "text": "体验非常不错",
+    "label": "Positive"
+  },
+  {
+    "text": "体验非常不错",
+    "label": "Positive"
+  },
+  {
+    "text": "体验非常不错",
+    "label": "Positive"
+  },
+  {
+    "text": "质量很好",
+    "label": "Positive"
+  },
+  {
+    "text": "使用起来很麻烦",
+    "label": "Negative"
+  },
+  {
+    "text": "使用起来很顺手",
+    "label": "Positive"
+  },
+  {
+    "text": "这个产品很好",
+    "label": "Positive"
+  },
+  {
+    "text": "体验非常不错",
+    "label": "Positive"
+  },
+  {
+    "text": "体验非常不好",
+    "label": "Negative"
+  },
+  {
+    "text": "客服很敷衍",
+    "label": "Negative"
+  },
+  {
+    "text": "我很喜欢这个功能",
+    "label": "Positive"
+  },
+  {
+    "text": "质量很好",
+    "label": "Positive"
+  },
+  {
+    "text": "服务太差了",
+    "label": "Negative"
+  },
+  {
+    "text": "服务太差了",
+    "label": "Negative"
+  },
+  {
+    "text": "使用起来很麻烦",
+    "label": "Negative"
+  },
+  {
+    "text": "速度很快",
+    "label": "Positive"
+  },
+  {
+    "text": "客服很敷衍",
+    "label": "Negative"
+  },
+  {
+    "text": "速度很快",
+    "label": "Positive"
+  }
+]
